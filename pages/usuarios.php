@@ -5,7 +5,7 @@ session_start();
 $host = 'localhost';      // La dirección del servidor de la base de datos
 $dbname = 'Plantas.Reyes.M';    // El nombre de la base de datos
 $user = 'postgres';     // El usuario de la base de datos
-$password = 'cucei'; // La contraseña del usuario
+$password = 'TU_PASSWORD_AQUI'; // La contraseña del usuario
 
 // Incluir la conexión a la base de datos
 include 'conexion.php';

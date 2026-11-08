@@ -2,7 +2,7 @@
 $host = 'localhost'; // Cambia si tu servidor PostgreSQL no está en localhost
 $dbname = 'Plantas.Reyes.M'; // Reemplaza con el nombre de tu base de datos
 $user = 'postgres'; // Usualmente 'postgres'
-$password = 'cucei'; // Contraseña de tu usuario
+$password = 'TU_PASSWORD_AQUI'; // Contraseña de tu usuario
 
 try {
     // Crear conexión con PDO
